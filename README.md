@@ -2,9 +2,9 @@
 
 When the program executes, a menu will appear (the menu must be displayed
 as JFrame). Then the user selects the following:
- Select the size of the beverage from a JComboBox (Small, Medium or
+ //Select the size of the beverage from a JComboBox (Small, Medium or
 Large).
- Select the type of beverage from a JRadioButton group (Juice, Water,
+ //Select the type of beverage from a JRadioButton group (Juice, Water,
 Tea or Cofee).
  -If Juice is selected, a JOptionPane must appear and from a dropdown
 menu, the user must choose one of Apple, Orange or Pineapple.
